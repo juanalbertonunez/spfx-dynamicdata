@@ -1,0 +1,2 @@
+# spfx-dynamicdata
+dynamic data
